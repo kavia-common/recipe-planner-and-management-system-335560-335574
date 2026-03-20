@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/recipe-planner-and-management-system-335560-335574/recipe_database"
+}
